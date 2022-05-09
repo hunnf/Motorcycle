@@ -1,0 +1,31 @@
+E:\WebXeMoto\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\WebXeMoto\Models\bin\Debug\Models.dll.config
+E:\WebXeMoto\Models\bin\Debug\Models.dll
+E:\WebXeMoto\Models\bin\Debug\Models.pdb
+E:\WebXeMoto\Models\bin\Debug\EntityFramework.dll
+E:\WebXeMoto\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\WebXeMoto\Models\bin\Debug\PagedList.dll
+E:\WebXeMoto\Models\bin\Debug\PagedList.Mvc.dll
+E:\WebXeMoto\Models\bin\Debug\EntityFramework.xml
+E:\WebXeMoto\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\WebXeMoto\Models\bin\Debug\PagedList.xml
+E:\WebXeMoto\Models\bin\Debug\PagedList.Mvc.xml
+E:\WebXeMoto\Models\obj\Debug\Models.csproj.CopyComplete
+E:\WebXeMoto\Models\obj\Debug\Models.dll
+E:\WebXeMoto\Models\obj\Debug\Models.pdb
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\Models.dll.config
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\Models.dll
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\Models.pdb
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\EntityFramework.dll
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\PagedList.dll
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\EntityFramework.xml
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\PagedList.xml
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\obj\Debug\Models.dll
+C:\Users\hunga\OneDrive\Máy tính\MotorcycleSales-master\Models\obj\Debug\Models.pdb
